@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684072379 source:d:\cau truc du lieu\bai tap\assignment4\search1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
